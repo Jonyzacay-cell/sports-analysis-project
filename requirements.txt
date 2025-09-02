@@ -1,0 +1,15 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+jupyterlab
+
+# Optional (if you use it later)
+plotly       # for interactive charts
+scikit-learn # if you add clustering/regression analysis
