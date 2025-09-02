@@ -18,15 +18,17 @@ Examples include **Brighton, Brentford, and Leicester** in their standout season
 
 ## 📂 Project Structure
 - 📁 **data/**
-  - 📂 raw/ → Original datasets
-  - 📂 cleaned/ → Cleaned/merged datasets
+  - 📂 Cleaned/merged datasets
+     - club_performance_clean.csv
+     - club_spending_clean.csv
+     - club_wages_clean.csv  
 - 📁 **notebooks/**
-  - 📝 01_data_cleaning.ipynb
-  - 📝 02_efficiency_metrics.ipynb
-  - 📝 03_visualizations.ipynb
+  - efficiency_analysis.ipynb
 - 📁 **charts/**
+  - 📊 big6_cost_per_point_trends.png
+  - 📊 cost_per_point.png
   - 📊 efficiency_vs_position.png
-  - 📊 top5_efficiency.png
+  - 📊 wage_vs_points.png
 - 📄 README.md → Documentation
 - 📄 requirements.txt → Dependencies
 ---
@@ -37,7 +39,7 @@ Examples include **Brighton, Brentford, and Leicester** in their standout season
 ![Efficiency vs Position](charts/efficiency_vs_position.png)
 
 ### Top 5 Efficient Clubs (Sample Season)
-![Top 5 Efficient Clubs](charts/top5_efficiency.png)
+![Top 5 Efficient Clubs](charts/cost_per_point.png)
 
 ---
 
