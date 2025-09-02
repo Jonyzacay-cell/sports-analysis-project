@@ -36,7 +36,7 @@ Examples include **Brighton, Brentford, and Leicester** in their standout season
 ## 📊 Example Visuals
 
 ### Efficiency Rank vs League Position
-![Efficiency vs Position](efficiency_vs_position.png)
+![Efficiency vs Position](big6_cost_per_point_trends.png)
 
 ### Top 6 Efficient Clubs (Sample Season)
 ![Top 5 Efficient Clubs](big6_cost_per_point_trends.png)
