@@ -17,20 +17,18 @@ Examples include **Brighton, Brentford, and Leicester** in their standout season
 ---
 
 ## 📂 Project Structure
-Sports Analysis Project/
-│── data/
-│ └── raw/ # Original datasets (spending, wages, league tables)
-│ └── cleaned/ # Processed/merged data
-│── notebooks/
-│ └── 01_data_cleaning.ipynb
-│ └── 02_efficiency_metrics.ipynb
-│ └── 03_visualizations.ipynb
-│── charts/
-│ └── efficiency_vs_position.png
-│ └── top5_efficiency.png
-│── README.md
-│── requirements.txt
-
+- 📁 **data/**
+  - 📂 raw/ → Original datasets
+  - 📂 cleaned/ → Cleaned/merged datasets
+- 📁 **notebooks/**
+  - 📝 01_data_cleaning.ipynb
+  - 📝 02_efficiency_metrics.ipynb
+  - 📝 03_visualizations.ipynb
+- 📁 **charts/**
+  - 📊 efficiency_vs_position.png
+  - 📊 top5_efficiency.png
+- 📄 README.md → Documentation
+- 📄 requirements.txt → Dependencies
 ---
 
 ## 📊 Example Visuals
